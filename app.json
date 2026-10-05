@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Nachrichten",
+    "slug": "nachrichten",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.oc2003.nachrichten"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.oc2003.nachrichten"
+    },
+    "web": {
+      "favicon": "./icon.png"
+    },
+    "owner": "oc2003",
+    "extra": {
+      "eas": {
+        "projectId": "9f02ace0-2286-4009-94a3-baf01b9a9fa8"
+      }
+    }
+  }
+}
